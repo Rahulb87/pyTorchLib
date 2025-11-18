@@ -27,7 +27,7 @@ The dataset used for training and evaluation contains a diverse collection of pl
 - Image Size: 224 x 224 pixels (RGB format)
 - Train-Validation-Test Split: 7624 images / 265 images / 265 images
 
-For more information about the dataset, refer to [this link](https://www.kaggle.com/datasets/gpiosenka/cards-image-datasetclassification).
+For more information about the dataset, refer to [this link](https://www.kaggle.com/code/rahulbhute/build-your-first-ai-with-pytorch-card-classifier).
 
 ## Model Architecture
 
@@ -96,5 +96,5 @@ Contributions to this project are welcome. Feel free to open issues, submit pull
 
 ## References
 
-- [Kaggle Dataset](https://www.kaggle.com/datasets/gpiosenka/cards-image-datasetclassification)
-- [Related Paper](https://www.kaggle.com/code/robikscube/train-your-first-pytorch-model-card-classifier)
+- [Kaggle Dataset](https://www.kaggle.com/datasets/rahulbhute/rahul-cards-dataset-image)
+- [Related Paper](https://www.kaggle.com/code/rahulbhute/build-your-first-ai-with-pytorch-card-classifier)
